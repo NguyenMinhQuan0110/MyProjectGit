@@ -38,7 +38,7 @@
                      <!-- Sử dụng flexbox để căn chỉnh hai nút cách xa nhau -->
                     <div class="d-flex justify-content-between">
                         <button type="submit" class="btn btn-primary">Đăng nhập</button>
-                        
+                        <button type="submit" class="btn btn-primary">Đăng nhập</button>
                     </div>
                 </form>
             </div>
